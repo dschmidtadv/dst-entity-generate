@@ -13,7 +13,7 @@
   ],
   "require": {
     "cweagans/composer-patches": "^1.7",
-    "drush/drush": "^11",
+    "drush/drush": "^12",
     "google/apiclient": "^2.12"
   },
   "require-dev": {
